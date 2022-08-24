@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AharoniLab
-- 👀 I’m interested in Plant Metabolomics 
+- 👀 I’m interested in plant specialized metabolism 
 - 🌱 I’m currently learning the mysteries of the Universe
-- 💞️ I’m looking to collaborate on Metabolomics/Lipidomics/MultiOmics
+- 💞️ I’m looking to collaborate on developing computational methods in Metabolomics/Lipidomics/Multi-omics
 - 📫 How to reach me aalab@weizmann.ac.il
 
 <!---
