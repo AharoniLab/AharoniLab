@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AharoniLab
+- 👋 Hi, I’m Nir, an informatician from the plant metabolomics lab at the Weizmann Institute of Science
 - 👀 I’m interested in plant specialized metabolism 
 - 🌱 I’m currently learning the mysteries of the Universe
 - 💞️ I’m looking to collaborate on developing computational methods in Metabolomics/Lipidomics/Multi-omics
